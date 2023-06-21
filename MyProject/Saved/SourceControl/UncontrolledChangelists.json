@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/zWork/Unreal Projects/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/zWork/Unreal Projects/MyProject/Content/UI_HUD.uasset",
+				"C:/zWork/Unreal Projects/MyProject/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/zWork/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/zWork/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/zWork/Unreal Projects/MyProject/Content/DamageTrigger.uasset",
+				"C:/zWork/Unreal Projects/MyProject/Content/GameOver.uasset",
+				"C:/zWork/Unreal Projects/MyProject/Content/Data/PlayersData.uasset",
+				"C:/zWork/Unreal Projects/MyProject/Content/Data/PlayerData.uasset",
+				"C:/zWork/Unreal Projects/MyProject/Content/Data/StatisticElementData.uasset",
+				"C:/zWork/Unreal Projects/MyProject/Content/Data/Statistic.uasset",
+				"C:/zWork/Unreal Projects/MyProject/Content/Data/StatisticPanel.uasset",
+				"C:/zWork/Unreal Projects/MyProject/Content/Data/Container.uasset",
+				"C:/zWork/Unreal Projects/MyProject/Content/NewWidgetBlueprint.uasset"
+			]
+		}
+	]
+}

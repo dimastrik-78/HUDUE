@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/zWork/Git/HUDUE/MyProject/Content/Data/StatisticPanel.uasset",
+				"C:/zWork/Git/HUDUE/MyProject/Content/Data/Container.uasset",
+				"C:/zWork/Git/HUDUE/MyProject/Content/Data/PlayrStatics.uasset",
+				"C:/zWork/Git/HUDUE/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/zWork/Git/HUDUE/MyProject/Content/Data/Statistic.uasset",
 				"C:/zWork/Unreal Projects/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"C:/zWork/Unreal Projects/MyProject/Content/UI_HUD.uasset",
 				"C:/zWork/Unreal Projects/MyProject/Content/FirstPerson/Maps/FirstPersonMap.umap",
